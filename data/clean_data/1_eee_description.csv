@@ -1,0 +1,55 @@
+eee_key,eee_description
+1,Central Heating (household installed)
+2,Photovoltaic Panels (incl. inverters)
+101,Professional Heating & Ventilation (excl. cooling equipment)
+102,Dishwashers
+103,"Kitchen equipment (e.g. large furnaces, ovens, cooking equipment)"
+104,Washing Machines (incl. combined dryers)
+105,"Dryers (wash dryers, centrifuges)"
+106,"Household Heating & Ventilation (e.g. hoods, ventilators, space heaters)"
+108,Fridges (incl. combi-fridges)
+109,Freezers
+111,Air Conditioners (household installed and portable)
+112,"Other Cooling equipment (e.g. dehumidifiers, heat pump dryers)"
+113,"Professional Cooling equipment (e.g. large air conditioners, cooling displays)"
+114,"Microwaves (incl. combined, excl. grills)"
+201,"Other small household equipment (e.g. small ventilators, irons, clocks, adapters)"
+202,"Equipment for food preparation(e.g. toaster, grills, food processing, frying pans)"
+203,"Small household equipment for hot water preparation (e.g. coffee, tea, water cookers)"
+204,Vacuum Cleaners (excl. professional)
+205,"Personal Care equipment(e.g. tooth brushes, hair dryers, razors)"
+301,"Small IT equipment (e.g. routers, mice, keyboards, external drives & accessories)"
+302,"Desktop PCs (excl. monitors, accessoires)"
+303,Laptops (incl. tablets)
+304,"Printers (e.g. scanners, multi functionals, faxes)"
+305,"Telecommunication equipment (e.g. (cordless) phones, answering machines)"
+306,"Mobile Phones (incl. smartphones, pagers)"
+307,"Professional IT equipment (e.g. servers, routers, data storage, copiers)"
+308,Cathode Ray Tube Monitors
+309,"Flat Display Panel Monitors (LCD, LED)"
+401,"Small Consumer Electronics (e.g. headphones, remote controls)"
+402,"Portable Audio & Video (e.g. MP3, e-readers, car navigation)"
+403,"Music Instruments, Radio, Hi-Fi (incl. audio sets)"
+404,"Video (e.g. Video recorders, DVD, Blue Ray, set-top boxes) and projectors"
+405,Speakers
+406,"Cameras (e.g. camcorders, photo & digital still cameras)"
+407,Cathode Ray Tube TVs
+408,"Flat Display Panel TVs (LCD, LED, Plasma)"
+501,Small lighting equipment (excl. LED & incandescent)
+502,Compact Fluorescent Lamps (incl. retrofit & non-retrofit)
+503,Straight Tube Fluorescent Lamps
+504,"Special Lamps (e.g. professional mercury, high & low pressure sodium)"
+505,LED Lamps (incl. retrofit LED lamps)
+506,Household Luminaires (incl. household incandescent fittings & household LED luminaires)
+507,"Professional Luminaires (offices, public space, industry)"
+601,"Household Tools (e.g. drills, saws, high pressure cleaners, lawn mowers)"
+602,"Professional Tools (e.g. for welding, soldering, milling)"
+701,"Toys (e.g. car racing sets, electric trains, music toys, biking computers, drones)"
+702,Game Consoles
+703,"Leisure equipment (e.g. sports equipment, electric bikes, juke boxes)"
+801,"Household Medical equipment(e.g. thermometers, blood pressure meters)"
+802,"Professional Medical equipment (e.g. hospital, dentist, diagnostics)"
+901,"Household Monitoring & Control equipment (alarm, heat, smoke, excl. screens)"
+902,"Professional Monitoring & Control equipment (e.g. laboratory, control panels)"
+1001,"Non- cooled Dispensers (e.g. for vending, hot drinks, tickets, money)"
+1002,"Cooled Dispensers (e.g. for vending, cold drinks)"
