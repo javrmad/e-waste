@@ -41,8 +41,8 @@ Data on the GDP of countries was obtained from the World Bank Database.
 
 1. Define the topic and goal of the project
 2. Research about e-waste generation in the world, policies and impact
-3. Research for available data on e-waste generation
-4. Data cleaning and wrangling
+3. Acquisition of available data on e-waste generation
+4. Data cleaning and preparation
 5. Data exploration
 6. Data visualization
 7. Present key insights
