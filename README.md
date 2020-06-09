@@ -5,6 +5,8 @@ Javier Silva
 
 *Data Analytics Bootcamp, May 2020*
 
+https://public.tableau.com/views/Thegrowingissueofe-waste/e-waste?:display_count=y&:origin=viz_share_link
+
 
 ## Content
 
